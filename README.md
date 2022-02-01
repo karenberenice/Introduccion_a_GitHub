@@ -5,4 +5,4 @@ Mi nombre es **Karen Contreras**, y en este archivo haré las actividades de la 
 
 ## Insertando una imagen
 
-![peach tree in bloom](img/peach-tree-in-bloom-in-memory-of-mauve-1888.jpg)
+![peach tree in bloom](imagens/peach-tree-in-bloom-in-memory-of-mauve-1888.jpg)
