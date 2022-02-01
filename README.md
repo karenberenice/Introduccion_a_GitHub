@@ -1,4 +1,4 @@
-# Introduccion_a_GitHub
+# Introduccion_a_GitHub (usando GitHub Desktop)
 
  ## Tarea de Github
 Mi nombre es **Karen Contreras**, y en este archivo haré las actividades de la mentoría **_Introducción a GitHub_**
